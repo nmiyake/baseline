@@ -1,0 +1,3 @@
+test:
+  override:
+    - remark -f **/readme.md *.md
