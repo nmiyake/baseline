@@ -1,0 +1,1 @@
+remark -f **/*.md *.md

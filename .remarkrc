@@ -1,0 +1,14 @@
+{
+  "plugins": {
+    "lint": {
+      "list-item-indent": "space",
+      "list-item-spacing": false,
+      "maximum-line-length": 100,
+      "no-emphasis-as-heading": false,
+      "no-missing-blank-lines": false
+    }
+  },
+  "settings": {
+    "commonmark": true
+  }
+}
