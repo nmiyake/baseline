@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/palantir-baseline/best-practices.svg?style=svg&circle-token=3003646d6453b7244a2ec38a125a267aab71a0d4)](https://circleci.com/gh/palantir-baseline/best-practices)
+[![Circle CI](https://circleci.com/gh/palantir-baseline/best-practices.svg?style=shield&circle-token=3003646d6453b7244a2ec38a125a267aab71a0d4)](https://circleci.com/gh/palantir-baseline/best-practices)
 
 # Best Practice Guides
 
