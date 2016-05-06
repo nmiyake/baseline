@@ -2,6 +2,13 @@
 
 # Best Practice Guides
 
+Le Corbusier: *yes, the Parthenon is perhaps the most beautiful instance,
+the perfect example of a particular standard of architecture. The
+Parthenon may have achieved the platonic ideal of the standard of
+architecture we’ve previously established. But there are many possible
+standards to acknowledge, each dependent on need and use, and
+standards are established by experiment.*
+
 [Code Reviews Guide](https://github.com/palantir-baseline/best-practices/blob/master/code-reviews/readme.md)
 
 [Java Coding Guide](https://github.com/palantir-baseline/best-practices/blob/master/java-coding-guidelines/readme.md)
