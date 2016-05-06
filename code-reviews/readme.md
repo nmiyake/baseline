@@ -267,6 +267,12 @@ consider in a code review:
   (Think of a time you saw an excellent, or truly terrible, commit
   message or comment.)
 
+- **Was the external documentation updated?**
+  If your project maintains a readme, changelog, or other documentation,
+  was it updated to reflect any changes? Outdated documentation can be
+  more confusing than none, and it will be more costly to fix in the
+  future than keeping it up to date right now.
+
 Declining or disapproving a CR is not rude. If the change is redundant
 or irrelevant due to age, decline it with an explanation. If you
 consider it unmergable due to one or more fatal flaws, disapprove it,
