@@ -7,7 +7,7 @@ worked for us, determined through experience. You may find that they
 don't work for you. But if you're looking for a starting place for your 
 experimentation, we offer you these guides.
 
-> Le Corbusier: *Yes, the Parthenon is perhaps the most beautiful instance,
+Le Corbusier: *Yes, the Parthenon is perhaps the most beautiful instance,
 the perfect example of a particular standard of architecture. The
 Parthenon may have achieved the platonic ideal of the standard of
 architecture we’ve previously established. But there are many possible
