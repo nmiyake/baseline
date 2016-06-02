@@ -284,7 +284,7 @@ it's not your feature and you can't make all the decisions. If you
 can't come to an agreement with your reviewee with the code as-is,
 switch to real-time communication or even involve a lead if necessary.
 
-#### Review Comments: Concise and Cctionable
+#### Review Comments: Concise and Actionable
 
 Comments should be **concise and neutral**. Try to differentiate
 between suggestions (e.g., "Suggestion: extract method to improve
