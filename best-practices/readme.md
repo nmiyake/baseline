@@ -14,12 +14,12 @@ architecture we’ve previously established. But there are many possible
 standards to acknowledge, each dependent on need and use, and
 standards are established by experiment.*
 
-[Code Reviews Guide](https://github.com/palantir/baseline/blob/master/code-reviews/readme.md)
+[Code Reviews Guide](code-reviews/readme.md)
 
-[Java Coding Guide](https://github.com/palantir/baseline/blob/master/java-coding-guidelines/readme.md)
+[Java Coding Guide](java-coding-guidelines/readme.md)
 
-[Microservices Best Practices](https://github.com/palantir/baseline/blob/master/microservices/readme.md)
+[Microservices Best Practices](microservices/readme.md)
 
-[Project Inception Checklist](https://github.com/palantir/baseline/blob/master/project-inception-checklist/readme.md)
+[Project Inception Checklist](project-inception-checklist/readme.md)
 
-[Testing Software Intro](https://github.com/palantir/baseline/blob/master/testing-software/readme.md)
+[Testing Software Intro](testing-software/readme.md)
