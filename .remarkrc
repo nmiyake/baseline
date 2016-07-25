@@ -3,7 +3,7 @@
     "lint": {
       "list-item-indent": "space",
       "list-item-spacing": false,
-      "maximum-line-length": 100,
+      "maximum-line-length": 120,
       "no-emphasis-as-heading": false,
       "no-missing-blank-lines": false
     }
