@@ -41,7 +41,7 @@ Example of a recommended frontend tech stack:
 
 ## Build Tasks
 
-The following tasks should be defined in the scripts` block in `package.json`:
+The following tasks should be defined in the `scripts` block in `package.json`:
 
 - `npm run clean`: delete all files in `build/`
 
