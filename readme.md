@@ -14,3 +14,6 @@ giving code reviews, or are trying to improve your test coverage, you can benefi
 who have done it before.
 
 [best practices](best-practices/readme.md)
+
+## License
+This project is made available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
